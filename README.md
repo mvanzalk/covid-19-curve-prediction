@@ -12,5 +12,5 @@ Our code provides a proof concept of the use of simple machine learning to model
 ## The solution
  We developed a decision tree regression with scikit-learn codes which enables us to predict future cases and death rates in case of a second wave based on past case and death rates. The regression model is trained on publicly available time series data provided by the EU.
  
-## Impact on the crisis (max 200 words)
+## Impact on the crisis
 The Machine learning code allows governments and institution to model to simulate and forecast a potential second wave of infection or similar outbreaks for an initial analysis. The forecasts allow the initial organization of resources such as testing kits, hospital beds, mask to name a few for future need. Additionally, if a second wave of infection occurs the model can project death and case for cases where similar restrictions are implemented. The faster responses time for critical event and organization of resources would limit the spread of the infection and most importantly reduce unnecessary deaths. An additional advantage of the code is use publicly accessible time-series data of deaths and infection, and as such it provides a freeware solution to forecast the outbreak for institutions and poorer countries.
